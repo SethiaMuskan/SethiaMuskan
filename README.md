@@ -1,25 +1,26 @@
-# Hi there 👋 I'm <a href="https://github.com/CyberTiwari">Sunil Tiwari</a>
-<a href="https://twitter.com/CyberTiwari">
-  <img align="left" alt=" Sunil Tiwari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+# Hi there 👋 I'm <a href="https://github.com/SethiaMuskan">Muskan Sethia</a>
+<a href="https://twitter.com/muskansethia8">
+  <img align="left" alt=" Muskan Sethia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/cybertiwari">
-  <img align="left" alt="Sunil Tiwari's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/muskan-sethia-120a42216/">
+  <img align="left" alt=" Muskan Sethia's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/cybertiwari/">
-  <img align="left" alt="Sunil Tiwari's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/muskan.sethia20/">
+  <img align="left" alt=" Muskan Sethia's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Sunil Tiwari, a Web App Developer , Programmer 🚀 from India
+Hi, I'm a Web App Developer , Programmer 🚀 from India , who is passionate about making opesource more accessible.
 
-Besides developing stuff , I enjoy listening to music 🎧 , riding bike :bike: , drinking tea :tea:  and travelling 🏝️ 
 
-**Talking about Personal Stuff:**
+- 💬 Ask me anything related to  Web Development , Javascript , Typescipt .
+- 📫 Reach me: <a href="mailto:muskansethia1177@gmail.com">muskansethia1177@gmail.com</a>
+-  Fun Fact: love to do sketching,painting,desigining
 
-- 🔭 I’m currently working as a Laravel Developer
-- 💬 Ask me about Web Development , Package development.
-- 📫 Reach me: <a href="mailto:cybertiwari@gmail.com">cybertiwari@gmail.com</a>
+**What I am focusing on**
+I am currently working on laravel projects and improving my laravel skills.
+
 
 &nbsp;
 <br>
@@ -30,10 +31,8 @@ Besides developing stuff , I enjoy listening to music 🎧 , riding bike :bike: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
