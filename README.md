@@ -11,14 +11,14 @@
 <br />
 <br />
 
-Hi, I'm a Web App Developer , Programmer 🚀 from India , who is passionate about making opensource more accessible.
+Hi, I'm a web app developer , programmer 🚀 from India , who is passionate about making opensource more accessible.
 
 
 - 💬 Ask me anything related to  Web Development , Javascript , Typescript .
 - 📫 Reach me: <a href="mailto:muskansethia1177@gmail.com">muskansethia1177@gmail.com</a>
--  Fun Fact: love to do sketching , painting , desigining
+- ⚡Fun Fact: love to do sketching , painting , desigining
 
-**What I am focusing on**
+**What I am focusing on 🎯🎯 **
 <br>
 I am currently working on laravel projects and improving my laravel skills.
 
